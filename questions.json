@@ -1,5 +1,4 @@
-[
-{
+[{
         "question": "A 65-year-old man presents with syncope. ECG shows sinus bradycardia. Which ion channel alteration best explains the increased time to reach the threshold potential in this patient’s pacemaker cells?",
         "choices": [
             "Increased sodium influx via voltage-gated channels",
@@ -691,5 +690,203 @@
     ],
     "correctAnswer": 0,
     "explanation": "Effective coordination of care for children with medical complexity involves establishing a primary care physician who acts as the central coordinator, overseeing all medical and therapeutic interventions and transitions between different care settings, such as from hospital to home, which is essential for managing frequent hospital stays."
+},
+{
+    "question": "What is the most common site of rib fractures and what are the potential complications of a fracture at this location?",
+    "choices": [
+        "Costal cartilage, leading to pneumothorax",
+        "Costal angle, potentially injuring underlying organs such as the liver or spleen",
+        "Rib head, potentially leading to costovertebral joint dislocation",
+        "Sternum, leading to cardiac tamponade"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Rib fractures most commonly occur at the costal angle due to its relative thinness and exposure. Fractures here can damage underlying organs like the liver or spleen, especially with lower rib fractures."
+},
+{
+    "question": "Which muscle group plays an essential role in elevating the ribs during forced inspiration?",
+    "choices": [
+        "External intercostals",
+        "Internal intercostals",
+        "Transversus thoracis",
+        "Subcostalis"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The external intercostals are crucial for forced inspiration as they help elevate the ribs, thereby expanding the thoracic cavity and reducing intra-thoracic pressure."
+},
+{
+    "question": "Which artery provides the major blood supply to the thoracic wall and is commonly used for coronary artery bypass grafting?",
+    "choices": [
+        "Thoracic aorta",
+        "Internal thoracic artery",
+        "Anterior intercostal artery",
+        "Musculophrenic artery"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The internal thoracic artery, also known as the internal mammary artery, is a major supplier to the thoracic wall and is frequently harvested for use in coronary artery bypass grafting due to its proximity and length."
+},
+{
+    "question": "A patient presents with muffled heart sounds, hypotension, and distended neck veins. What is the most likely diagnosis, and which procedure is indicated?",
+    "choices": [
+        "Myocardial infarction, requiring immediate angioplasty",
+        "Pericardial effusion leading to cardiac tamponade, requiring pericardiocentesis",
+        "Congestive heart failure, requiring diuretic therapy",
+        "Aortic dissection, requiring surgical intervention"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The clinical presentation is indicative of cardiac tamponade caused by pericardial effusion, which compresses the heart and impairs its function. Pericardiocentesis, the removal of fluid from the pericardial sac, is necessary to relieve pressure on the heart."
+},
+{
+    "question": "Where is the best location to auscultate the mitral valve?",
+    "choices": [
+        "Right 2nd intercostal space at the sternal border",
+        "Left 2nd intercostal space at the sternal border",
+        "Left 5th intercostal space at the midclavicular line",
+        "Left lower sternal border"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The mitral valve is best auscultated at the left 5th intercostal space in the midclavicular line, where the apex of the heart is closest to the chest wall."
+},
+{
+    "question": "Which structure in the cardiac conduction system is responsible for delaying the impulse between the atria and ventricles, ensuring timely ventricular filling?",
+    "choices": [
+        "Sinoatrial node",
+        "Atrioventricular node",
+        "Bundle of His",
+        "Purkinje fibers"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The atrioventricular (AV) node delays the electrical impulse received from the sinoatrial (SA) node, allowing the ventricles sufficient time to fill with blood before they contract."
+},
+{
+    "question": "What role does the azygos vein play in systemic venous circulation?",
+    "choices": [
+        "Drains deoxygenated blood directly into the left atrium",
+        "Acts as a major collateral pathway between the portal and systemic venous systems",
+        "Provides an alternative pathway for venous return from the lower body to the heart when the inferior vena cava is blocked",
+        "Transports oxygenated blood from the lungs to the heart"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The azygos vein serves as an important alternative channel for blood to return to the heart, particularly when the inferior vena cava is obstructed, by providing collateral circulation."
+},
+{
+    "question": "A patient reports pain in the left shoulder and upper arm. Which cardiac condition could be referring pain to these locations?",
+    "choices": [
+        "Pericarditis",
+        "Acute myocardial infarction",
+        "Stable angina",
+        "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "All listed conditions can cause cardiac referred pain due to shared sensory pathways between the heart and upper thoracic dermatomes, leading to pain perception in the shoulder and arm."
+},
+{
+    "question": "Which mediastinal structure is responsible for maturation of T lymphocytes and involutes significantly after puberty?",
+    "choices": [
+        "Thymus",
+        "Superior vena cava",
+        "Trachea",
+        "Esophagus"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The thymus is involved in the maturation of T lymphocytes and is prominent in children but involutes to a much smaller size after puberty."
+},
+{
+   "question": "During a clinical examination, you hear a high-pitched 'whooshing' sound immediately following the second heart sound. This sound is most likely associated with which condition?",
+   "choices": [
+       "Mitral valve prolapse",
+       "Aortic valve stenosis",
+       "Aortic valve insufficiency",
+       "Tricuspid valve stenosis"
+   ],
+   "correctAnswer": 2,
+   "explanation": "A high-pitched 'whooshing' sound following the second heart sound (S2) typically indicates aortic valve insufficiency, where blood regurgitates back into the left ventricle during diastole."
+},
+{
+    "question": "What are the primary functional layers of a typical large blood vessel, and what specific role does the internal elastic lamina play within this structure?",
+    "choices": [
+        "Intima, media, and adventitia; the internal elastic lamina acts as a barrier to the diffusion of materials.",
+        "Intima, media, and adventitia; the internal elastic lamina provides structural support to prevent vessel collapse.",
+        "Intima, vascular smooth muscle, and connective tissue; the internal elastic lamina serves to facilitate vascular contraction and relaxation.",
+        "Intima, media, and adventitia; the internal elastic lamina permits diffusion between the intima and media."
+    ],
+    "correctAnswer": 3,
+    "explanation": "In large blood vessels, the three primary layers are the intima, media, and adventitia. The internal elastic lamina, located at the boundary between the intima and media, contains fenestrations that allow the passage of materials between these layers, supporting the metabolic needs of the vessel's cells."
+},
+{
+    "question": "How do structural differences between elastic arteries and muscular arteries relate to their functional roles in the circulatory system?",
+    "choices": [
+        "Elastic arteries contain more smooth muscle to regulate blood pressure, while muscular arteries contain more elastic fibers to withstand pressure changes.",
+        "Elastic arteries have more elastic fibers to accommodate pressure fluctuations from heartbeats, whereas muscular arteries control finer blood flow regulation through smooth muscle contraction.",
+        "Muscular arteries have more internal elastic laminae to distribute blood, while elastic arteries use their thick media layer for transporting large volumes of blood rapidly.",
+        "Elastic arteries primarily function to distribute blood to the organs, while muscular arteries are mainly involved in gas exchange."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Elastic arteries, such as the aorta, have abundant elastic fibers in their walls to absorb and smooth out pressure fluctuations resulting from heartbeats. Muscular arteries, in contrast, have more smooth muscle relative to their size, which allows them to regulate blood flow to specific areas of the body more finely through vasoconstriction and vasodilation."
+},
+{
+    "question": "Which type of capillary is characterized by the presence of large fenestrations covered by diaphragms and is primarily found in organs that engage in rapid filtration?",
+    "choices": [
+        "Continuous capillaries",
+        "Fenestrated capillaries",
+        "Sinusoidal capillaries",
+        "Lymphatic capillaries"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fenestrated capillaries, characterized by large fenestrations (pores) covered by diaphragms, facilitate rapid exchange of substances between the blood and surrounding tissue. They are typically found in organs such as the kidneys and endocrine glands, where quick filtration and secretion are necessary."
+},
+{
+    "question": "Which layer of the heart wall contains the pacemaker cells responsible for initiating the heart's rhythmic contractions?",
+    "choices": [
+        "Endocardium",
+        "Myocardium",
+        "Epicardium",
+        "Fibrous skeleton"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The endocardium, the innermost layer of the heart wall, houses the specialized pacemaker cells found in structures like the sinoatrial node, which are crucial for initiating and regulating the heartbeat."
+},
+{
+    "question": "What is the primary function of the fibrous cardiac skeleton, particularly in relation to the heart valves?",
+    "choices": [
+        "It facilitates the contraction of the myocardium for effective blood pumping.",
+        "It acts as a point of insertion for cardiac muscle fibers and electrically isolates atrial cells from ventricular cells.",
+        "It provides elasticity for the heart valves to rebound between openings and closings.",
+        "It secretes enzymes that protect the heart from infectious agents."
+    ],
+    "correctAnswer": 1,
+    "explanation": "The fibrous cardiac skeleton provides structural support for the heart by anchoring the valve cusps, forming part of the interventricular and interatrial septa, and importantly, it acts as electrical insulation between the atria and the ventricles, which is essential for the proper timing of the heartbeat."
+},
+{
+    "question": "Under electron microscopy, which capillary type is identified by a continuous basal lamina and tight, well-developed junctions?",
+    "choices": [
+        "Continuous capillaries",
+        "Fenestrated capillaries",
+        "Sinusoidal capillaries",
+        "Lymphatic capillaries"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Continuous capillaries are characterized by a continuous basal lamina and tightly joined endothelial cells, making them ideal for areas where a highly selective barrier to the passage of materials is necessary, such as in the brain and muscle tissue."
+},
+{
+    "question": "How do arterioles contribute to the regulation of systemic blood pressure?",
+    "choices": [
+        "By dilating to increase blood flow and reduce pressure.",
+        "By contracting to restrict blood flow, increasing resistance and therefore blood pressure.",
+        "By acting as reservoirs for blood storage.",
+        "By filtering blood components based on size and charge."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arterioles, often referred to as resistance vessels, play a crucial role in the regulation of blood pressure by contracting or relaxing their smooth muscle layers, which alters their diameter, thus controlling the resistance to blood flow and ultimately influencing systemic blood pressure."
+},
+{
+    "question": "What structural feature of lymphatic capillaries allows them to effectively collect interstitial fluid?",
+    "choices": [
+        "Thick muscular walls that pump lymph",
+        "Valves that prevent backflow of fluid",
+        "Permeable junctions between endothelial cells",
+        "Presence of red blood cells that facilitate fluid transport"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lymphatic capillaries have uniquely structured endothelial junctions that are highly permeable, allowing them to effectively collect excess interstitial fluid, or lymph, from tissue spaces, which is critical for maintaining fluid balance in the body."
 }
 ]
