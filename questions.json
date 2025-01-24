@@ -1,4 +1,5 @@
-[{
+[
+{
         "question": "A 65-year-old man presents with syncope. ECG shows sinus bradycardia. Which ion channel alteration best explains the increased time to reach the threshold potential in this patient’s pacemaker cells?",
         "choices": [
             "Increased sodium influx via voltage-gated channels",
@@ -7,10 +8,10 @@
             "Decreased activity of the sodium-potassium pump"
         ],
         "correctAnswer": 1,
-        "explanation": "Parasympathetic stimulation increases acetylcholine release, leading to prolonged repolarization in pacemaker cells due to decreased potassium efflux."
+        "explanation": "Parasympathetic stimulation increases acetylcholine release, leading to prolonged repolarization in pacemaker cells due to decreased potassium efflux. You would want to decrease sodium influx through f channels to hit the rest and digest part of the parasympathetic nervous system."
     },
     {
-        "question": "During the QRS complex, the instantaneous mean vector points toward Lead II. What is the expected appearance of the QRS complex in Lead II?",
+        "question": "During the QRS complex, the instantaneous mean vector points toward the positive electrode of Lead II. What is the expected appearance of the QRS complex in Lead II?",
         "choices": [
             "Negative deflection",
             "Positive deflection",
@@ -51,7 +52,7 @@
             "Initiation of transcutaneous pacing"
         ],
         "correctAnswer": 0,
-        "explanation": "Ventricular fibrillation requires immediate defibrillation to restore a coordinated electrical rhythm."
+        "explanation": "Ventricular fibrillation requires immediate defibrillation to restore a coordinated electrical rhythm. Most serious arrhythmia, haracterized by totally uncoordinated contraction of heart muscle."
     },
     {
         "question": "Which phase of the pacemaker action potential is most influenced by increased sympathetic stimulation?",
@@ -73,7 +74,7 @@
             "Perpendicular to the aVL lead axis"
         ],
         "correctAnswer": 3,
-        "explanation": "An isoelectric complex occurs when the vector is perpendicular to the lead's axis."
+        "explanation": "An isoelectric complex occurs when the vector is perpendicular to the lead's axis. This is when positive and negative voltages are about the same."
     },
     {
         "question": "A drug that increases calcium influx through L-type calcium channels is administered. What is the most likely effect on cardiac function?",
@@ -84,7 +85,7 @@
             "Prolonged AV nodal conduction time"
         ],
         "correctAnswer": 2,
-        "explanation": "Calcium influx through L-type channels enhances excitation-contraction coupling, increasing contractility."
+        "explanation": "Calcium influx through L-type channels enhances excitation-contraction coupling, increasing contractility. Think about it- many blood pressure medications are calcium channel blockers- which lowers cardiac output, which is one of the factors in calculating blood pressure."
     },
     {
         "question": "The mean vector during ventricular depolarization is directed away from the positive electrode of Lead I. What is the expected deflection in Lead I?",
@@ -106,20 +107,9 @@
             "Atrial repolarization"
         ],
         "correctAnswer": 2,
-        "explanation": "The T wave corresponds to the phase of ventricular repolarization."
+        "explanation": "The T wave corresponds to the phase of ventricular repolarization. Ventricular depolarization is represented by the QRS complex. Atrial depolarization is represented by the P wave. Atrial repolarization is actually invisible in the EKG as it is hidden by the QRS complex which has a stronger signal from ventricular depolarization."
     }, 
-    {
-        "question": "A 35-year-old man presents after a motor vehicle accident. X-ray imaging reveals fractures of the 5th and 6th ribs along the midclavicular line. Which of the following is the most likely clinical complication of these fractures?",
-        "choices": [
-            "Pneumothorax",
-            "Hemopericardium",
-            "Aortic dissection",
-            "Diaphragmatic rupture"
-        ],
-        "correctAnswer": 0,
-        "explanation": "Midclavicular rib fractures commonly injure the underlying pleura and lungs, potentially leading to pneumothorax."
-    },
-    {
+        {
         "question": "During a surgical procedure, the internal thoracic artery is ligated. Which of the following muscles would most likely experience compromised blood supply as a result?",
         "choices": [
             "External intercostals",
@@ -130,18 +120,7 @@
         "correctAnswer": 3,
         "explanation": "The transversus thoracis muscle is primarily supplied by branches of the internal thoracic artery."
     },
-    {
-        "question": "A 40-year-old woman is diagnosed with a pericardial effusion. What is the most likely anatomical site for needle insertion during a pericardiocentesis to avoid injury to the lung?",
-        "choices": [
-            "Left 4th intercostal space, midclavicular line",
-            "Left 5th intercostal space, anterior axillary line",
-            "Left 6th intercostal space, midaxillary line",
-            "Subxiphoid approach directed toward the left shoulder"
-        ],
-        "correctAnswer": 3,
-        "explanation": "The subxiphoid approach avoids the lungs and pleura, providing a safer route to access the pericardial sac."
-    },
-    {
+       {
         "question": "A 50-year-old man presents with chest pain radiating to the left arm and jaw. This referred pain is most likely mediated by which of the following mechanisms?",
         "choices": [
             "Direct stimulation of the phrenic nerve",
@@ -161,7 +140,7 @@
             "Subcostalis"
         ],
         "correctAnswer": 2,
-        "explanation": "Paradoxical movement of the ribs during respiration is a sign of diaphragmatic paralysis, as the diaphragm is the primary muscle of inspiration."
+        "explanation": "Paradoxical movement of the ribs during respiration is a sign of diaphragmatic paralysis, as the diaphragm is the primary muscle of inspiration. Paralysis of the hemidiaphragm is caused by damage to the phrenic nerve due to spinal cord injury, trauma & surgical complications. Remember- there are 2 diaphragms."
     },
     {
         "question": "Where on the anterior thoracic wall would you best auscultate the aortic valve in a healthy adult?",
@@ -172,10 +151,10 @@
             "5th intercostal space, midclavicular line"
         ],
         "correctAnswer": 1,
-        "explanation": "The aortic valve is best auscultated at the 2nd intercostal space along the right sternal border."
+        "explanation": "The aortic valve is best auscultated at the 2nd intercostal space along the right sternal border. The second intercostal space on the left sternal border would be for the pulmonary valve. The 4th intercostal space on the left sternal border would be for the tricuspid valve."
     },
     {
-        "question": "A 25-year-old man is stabbed in the chest. Imaging reveals a hemothorax and injury to the azygos vein. What is the most likely consequence of this injury?",
+        "question": "A 25-year-old man is stabbed in the chest. Imaging reveals a hemothorax and injury to the azygous vein. What is the most likely consequence of this injury?",
         "choices": [
             "Compromised venous drainage of the thoracic wall",
             "Impaired venous return from the lower limbs",
@@ -183,7 +162,7 @@
             "Decreased lymphatic drainage from the thoracic duct"
         ],
         "correctAnswer": 0,
-        "explanation": "The azygos vein is a major venous drainage route for the thoracic wall. Its injury can lead to impaired drainage."
+        "explanation": "The azygous vein is a major venous drainage route for the thoracic wall. Its injury can lead to impaired drainage. The azygous system of veins are veins that drain blood from the posterior walls of the thorax & abdomen which provide collateral blood flow if the IVC is blocked."
     },
     {
         "question": "During a cadaver dissection, a medical student identifies the pericardial sac. Which of the following best describes its innervation?",
@@ -194,7 +173,7 @@
             "Intercostal nerves for autonomic control"
         ],
         "correctAnswer": 0,
-        "explanation": "The pericardium is primarily innervated by the phrenic nerve, providing somatic sensory innervation."
+        "explanation": "The pericardium is primarily innervated by the phrenic nerve, providing somatic sensory innervation. The vagus nerve does motor and sensory innervation of the neck."
     },
     {
         "question": "A 70-year-old man presents with a systolic murmur heard best at the left lower sternal border. Which valve is most likely affected?",
@@ -227,7 +206,7 @@
         "Chronic skin rash"
     ],
     "correctAnswer": 1,
-    "explanation": "Exertional chest pain that is relieved by rest is a classic symptom of ischemic heart disease, often indicating underlying coronary artery disease."
+    "explanation": "Exertional chest pain that is relieved by rest is a classic symptom of ischemic heart disease, often indicating underlying coronary artery disease. CAD can also be relieved by nitroglycerin. CAD presents with typical angina which is substernal chest pain/discomfort, brought on with exertion or emotional stress."
 },
 {
     "question": "During the cardiovascular examination of a patient with suspected congestive heart failure, which of the following findings would confirm the presence of right-sided heart failure?",
@@ -238,7 +217,7 @@
         "Systolic murmur best heard at the apex"
     ],
     "correctAnswer": 1,
-    "explanation": "Bilateral ankle edema is a hallmark sign of right-sided heart failure, indicating systemic fluid retention due to inadequate venous return to the heart."
+    "explanation": "Bilateral ankle edema is a hallmark sign of right-sided heart failure, indicating systemic fluid retention due to inadequate venous return to the heart. Congestive heart failure is a clinical syndrome characterized by an impaired cardiac function leading to symptoms of dyspnea, lower extremity edema and other symptoms of volume overload (orthopnea, PND, bendopnea (shortness of breath that occurs when bending forward)."
 },
 {
     "question": "For a patient presenting with sudden, severe chest pain radiating to the back and a history of hypertension, which diagnostic test would most rapidly confirm the diagnosis of aortic dissection?",
@@ -249,7 +228,7 @@
         "Magnetic resonance angiography"
     ],
     "correctAnswer": 2,
-    "explanation": "Computed tomography angiography (CTA) is the diagnostic test of choice for aortic dissection, providing rapid and detailed images of the aortic anatomy to confirm the diagnosis."
+    "explanation": "Contrast-enhanced computed tomography angiography (CTA) of the chest is the diagnostic test of choice for aortic dissection, providing rapid and detailed images of the aortic anatomy to confirm the diagnosis."
 },
 {
     "question": "On an ECG, the PR interval represents which of the following in the cardiac cycle?",
@@ -271,7 +250,7 @@
         "Stable angina"
     ],
     "correctAnswer": 1,
-    "explanation": "Positional chest pain that improves with sitting forward and diffuse ST elevations on an ECG are classic signs of pericarditis, likely due to inflammation of the pericardial sac."
+    "explanation": "Positional chest pain that improves with sitting forward and diffuse ST elevations on an ECG are classic signs of pericarditis, likely due to inflammation of the pericardial sac, meaning it takes longer to depolarize since the electrical signal needs to travel longer. Now, if this were saddle shaped, concave, tombstoned, etc… this would be acute MI."
 },
 {
     "question": "A patient presents with an aortic aneurysm. Explain how Laplace's Law predicts the risk of rupture based on the radius of the aneurysm and the blood pressure within it.",
@@ -282,7 +261,7 @@
         "Decreased radius increases wall tension and decreases the risk of rupture."
     ],
     "correctAnswer": 2,
-    "explanation": "According to Laplace's Law, wall tension (T) increases with an increase in the radius (r) of the vessel and the transmural pressure (P). Thus, an increased radius in an aortic aneurysm increases the wall tension, heightening the risk of rupture."
+    "explanation": "According to Laplace's Law, wall tension (T) increases with an increase in the radius (r) of the vessel and the transmural pressure (P). Thus, an increased radius in an aortic aneurysm increases the wall tension, heightening the risk of rupture. Laplace law is wall tension= (transmural pressure*radius)/wall thickness."
 },
 {
     "question": "How do changes in arteriolar radius and hematocrit levels influence blood flow according to Ohm’s and Poiseuille’s Laws?",
@@ -293,7 +272,7 @@
         "Decreased arteriolar radius and decreased hematocrit increase blood flow due to decreased viscosity."
     ],
     "correctAnswer": 0,
-    "explanation": "According to Poiseuille’s Law, resistance is inversely proportional to the fourth power of the radius (r) of the vessel and directly proportional to the viscosity (η), which is influenced by hematocrit. Thus, a decreased radius and increased hematocrit lead to increased resistance and decreased blood flow."
+    "explanation": "According to Poiseuille’s Law, resistance is inversely proportional to the fourth power of the radius (r) of the vessel and directly proportional to the viscosity (η), which is influenced by hematocrit. Thus, a decreased radius and increased hematocrit lead to increased resistance and decreased blood flow. Flow rate= (pi*Pressure*radius^4)/(8*viscosity*length). Or in Ohm’s- Flow rate= (pressure difference)/resistance)."
 },
 {
     "question": "Describe the primary sites and comparative effects of capacitance in the arteries versus the veins.",
@@ -359,7 +338,7 @@
         "NFP = 17 mmHg"
     ],
     "correctAnswer": 1,
-    "explanation": "Using Starling's equation for net filtration pressure, NFP = Pc - Pif - πc + πif = 25 - (-3) - 20 + 5 = 7 mmHg, indicating a moderate amount of fluid is filtering out into the interstitium."
+    "explanation": "Using Starling's equation for net filtration pressure, NFP = (Pc - Pif) - (πc + πif) = 25 - (-3) - 20 + 5 = 7 mmHg, indicating a moderate amount of fluid is filtering out into the interstitium."
 },
 {
     "question": "In the context of parallel and series vascular arrangements, explain the impact of increasing resistance in one vascular bed on the overall systemic circulation.",
@@ -458,7 +437,7 @@
         "Normal S4"
     ],
     "correctAnswer": 1,
-    "explanation": "In young adults, a heart sound heard immediately after S2 during rapid ventricular filling is typically a normal S3, reflecting the vibration of ventricular walls."
+    "explanation": "In young adults, a heart sound heard immediately after S2 during rapid ventricular filling is typically a normal S3, reflecting the vibration of ventricular walls because they are more elastic in younger people. But as we learned in CBL, get the full picture because a S3 may not be normal if they have an underlying condition such as down syndrome."
 },
 {
     "question": "A murmur heard after the S1 sound and before the S2 sound would be classified as:",
@@ -480,7 +459,7 @@
         "Mitral regurgitation"
     ],
     "correctAnswer": 1,
-    "explanation": "A low-pitched, rumbling diastolic murmur heard best at the apex typically indicates mitral stenosis, a narrowing of the mitral valve that impedes blood flow from the left atrium to the left ventricle."
+    "explanation": "A low-pitched, rumbling diastolic murmur heard best at the apex typically indicates mitral stenosis, a narrowing of the mitral valve that impedes blood flow from the left atrium to the left ventricle. Just by knowing the location you know it has to involve the mitral valve. Mitral regurgitation is systolic."
 },
 {
     "question": "In which of the following conditions is an S4 heart sound most likely to be detected?",
@@ -535,7 +514,7 @@
         "It decreases cardiac contractility by overstretching the myocardial fibers."
     ],
     "correctAnswer": 1,
-    "explanation": "Increased venous return enhances ventricular filling (preload), which stretches the myocardial fibers, optimally aligning them to generate stronger contractions, thereby increasing stroke volume according to the Frank-Starling mechanism."
+    "explanation": "Increased venous return enhances ventricular filling (preload), which stretches the myocardial fibers, optimally aligning them to generate stronger contractions, thereby increasing stroke volume and cardiac output according to the Frank-Starling mechanism."
 },
 {
     "question": "In a ventricular pressure-volume loop, what does the end-diastolic point represent in the context of the Frank-Starling relationship?",
@@ -634,7 +613,7 @@
         "It decreases both the peak systolic pressure and the end-systolic volume, maintaining cardiac output."
     ],
     "correctAnswer": 2,
-    "explanation": "An increase in afterload increases the resistance the heart must overcome to eject blood, which is reflected in the pressure-volume loop as higher systolic pressures and increased end-systolic volumes, ultimately decreasing stroke volume and cardiac output."
+    "explanation": "An increase in afterload increases the resistance the heart must overcome to eject blood, which is reflected in the pressure-volume loop as higher systolic pressures and increased end-systolic volumes, ultimately decreasing stroke volume and cardiac output. It also increases preload."
 },
 {
     "question": "A pediatric patient with Trisomy 21 and a ventricular septal defect (VSD) presents with recurrent respiratory infections. What aspect of managing complex comorbidities is crucial in coordinating care for such a patient?",
@@ -832,18 +811,7 @@
         "Lymphatic capillaries"
     ],
     "correctAnswer": 1,
-    "explanation": "Fenestrated capillaries, characterized by large fenestrations (pores) covered by diaphragms, facilitate rapid exchange of substances between the blood and surrounding tissue. They are typically found in organs such as the kidneys and endocrine glands, where quick filtration and secretion are necessary."
-},
-{
-    "question": "Which layer of the heart wall contains the pacemaker cells responsible for initiating the heart's rhythmic contractions?",
-    "choices": [
-        "Endocardium",
-        "Myocardium",
-        "Epicardium",
-        "Fibrous skeleton"
-    ],
-    "correctAnswer": 0,
-    "explanation": "The endocardium, the innermost layer of the heart wall, houses the specialized pacemaker cells found in structures like the sinoatrial node, which are crucial for initiating and regulating the heartbeat."
+    "explanation": "Fenestrated capillaries, characterized by large fenestrations (pores) covered by diaphragms, facilitate rapid exchange of substances between the blood and surrounding tissue. They are typically found in organs such as the kidneys, intestines, and endocrine glands, where quick filtration and secretion are necessary."
 },
 {
     "question": "What is the primary function of the fibrous cardiac skeleton, particularly in relation to the heart valves?",
@@ -888,5 +856,196 @@
     ],
     "correctAnswer": 2,
     "explanation": "Lymphatic capillaries have uniquely structured endothelial junctions that are highly permeable, allowing them to effectively collect excess interstitial fluid, or lymph, from tissue spaces, which is critical for maintaining fluid balance in the body."
+},
+{
+    "question": "Which valve separates the right atrium from the right ventricle?",
+    "choices": [
+        "Aortic valve",
+        "Fossa ovalis",
+        "Interatrial septum",
+        "Mitral valve",
+        "Pulmonary valve",
+        "Tricuspid valve"
+    ],
+    "correctAnswer": 5,
+    "explanation": "The correct answer is the tricuspid valve (F). This valve separates the right atrium from the right ventricle. The aortic valve (A) is a structure separating the left ventricle from the systemic circulation. The fossa ovalis (B) and interatrial septum (C) are structures between the right atrium and left atrium, with the former being a remnant of the embryologic foramen ovale. The mitral valve (D) separates the left atrium from the left ventricle. The pulmonary valve (E) separates the right ventricle from the pulmonary circulation."
+},
+{
+    "question": "Which part of the heart does the left circumflex artery supply?",
+    "choices": [
+        "Interventricular septum",
+        "Left atrium",
+        "Right atrium",
+        "Right ventricle",
+        "SA node"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is the left atrium (B). The left circumflex is a branch of the left main coronary artery, traveling posteriorly to supply the left atrium and the left ventricle. The interventricular septum (A) is supplied by the LAD. The right atrium (C) is supplied by branches of the right coronary artery. The right ventricle (D) is mostly supplied by the right marginal branch and the LAD. The SA node (E) is supplied by the SA nodal branch."
+},
+{
+    "question": "Which coronary artery gives rise to the posterior descending artery in the majority of the population?",
+    "choices": [
+        "Left anterior descending artery",
+        "Left circumflex artery",
+        "Left main coronary artery",
+        "Right coronary artery",
+        "Right marginal artery"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is right coronary artery (D). The majority of the population have a dominant right coronary artery (RCA). This means that the posterior descending artery (PDA) is a branch of the RCA. The left anterior descending artery (A) does not usually give off branches to the PDA. The left circumflex artery (B) can give rise to the PDA in a smaller proportion of the population, creating a dominant left coronary artery. The left main (C) does not give branches to the PDA directly. The right marginal artery (E) is not directly associated with the PDA."
+},
+{
+    "question": "What cardiac vein accompanies the right coronary artery along its route?",
+    "choices": [
+        "Anterior veins of the right ventricle",
+        "Great cardiac vein",
+        "Middle cardiac vein",
+        "Posterior cardiac vein",
+        "Small cardiac vein"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is small cardiac vein (E). The small cardiac vein runs in the right atrioventricular groove, accompanying the right coronary artery. The anterior veins of the right ventricle (A) are not closely associated with the right coronary artery. The great cardiac vein (B) runs on the anterior interventricular groove, accompanying the left anterior descending artery. The middle cardiac vein (C) runs on the posterior interventricular groove, accompanying the posterior descending artery. The posterior cardiac vein (D) runs on the posterior surface of the left ventricle. It does not accompany any of the main coronary arteries."
+},
+{
+    "question": "Which additional heart sound can be normal in pregnant women?",
+    "choices": [
+        "Fixed-split S2",
+        "Reversed splitting (also called paradoxical splitting)",
+        "S3",
+        "S4",
+        "Wide-splitting S2"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is S3 (C). The S3 gallop can be normal in pregnant women, athletes, and children. Fixed-split S2 is a sign of atrial septal defect (A). Reversed splitting is caused by aortic stenosis (B). S4 is a sign of noncompliant heart walls and is always pathologic (D). Wide-splitting S2 occurs in pulmonary arterial hypertension, pulmonic stenosis, and right bundle-branch block (E)."
+},
+{
+    "question": "A 52-year-old man comes to the office for a follow-up of his heart failure condition. On auscultation of his heart, an S4 sound is heard. What is the most likely cause of this additional heart sound in this patient?",
+    "choices": [
+        "Atrial septal defect",
+        "Heart block",
+        "Ventricular hypertrophy",
+        "Volume overload"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is ventricular hypertrophy (C). An S4 sound comes before S1, signifying a stiff, noncompliant ventricle that recoils against the atrial kick. This is seen in ventricular hypertrophy. Atrial septal defect (A) does not cause an S4 sound. Heart block (B) and volume overload (D) are associated with S3 sounds, not S4."
+},
+{
+    "question": "While examining a patient, you notice that the second heart sound is split while the patient is inhaling. You have her exhale, and you hear a single second heart sound. What sign is this and what is its significance?",
+    "choices": [
+        "Fixed splitting of S2, a sign of atrial septal defect",
+        "Normal splitting of S2, a physiologic finding",
+        "Paradoxical splitting, a sign of aortic stenosis",
+        "Wide splitting of S2, a sign of right bundle-branch block, pulmonic stenosis, or pulmonary arterial hypertension"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct answer is normal splitting of S2, a physiologic finding (B). S2 is normally singular during expiration and splits during inspiration. Fixed splitting (A) occurs in atrial septal defect and is constant across respiratory phases. Paradoxical splitting (C) involves a split during expiration that resolves in inspiration, seen in conditions like aortic stenosis. Wide splitting (D) is observed when the split persists and increases during inspiration, seen in right bundle-branch block or pulmonary hypertension."
+},
+{
+    "question": "Which of the following describes the normal order of cardiac conduction in healthy individuals?",
+    "choices": [
+        "AV node, bundle branches, bundle of His, SA node, Purkinje fibers",
+        "Bundle branches, SA node, AV node, Purkinje fibers, bundle of His",
+        "Purkinje fibers, bundle branches, AV node, SA node, bundle of His",
+        "SA node, AV node, bundle of His, bundle branches, Purkinje fibers",
+        "SA node, Purkinje fibers, bundle of His, bundle branches, AV node"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is SA node, AV node, bundle of His, bundle branches, Purkinje fibers (D). The electrical impulse begins at the SA node, travels to the AV node and then to the bundle of His, goes to the right and left bundle branches, and then goes to the Purkinje fibers. Other options incorrectly describe the sequence of conduction."
+},
+{
+    "question": "The 'pacemaker' current (If) represents which of the following cellular activities?",
+    "choices": [
+        "Efflux of potassium",
+        "Efflux of sodium",
+        "Influx of calcium",
+        "Influx of potassium",
+        "Influx of sodium"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is influx of sodium (E). The pacemaker current, part of phase 4 of pacemaker cells, represents the influx of sodium into the cell. Efflux of potassium (A) occurs during phase 3 (repolarization), and the other options represent phases unrelated to If activity."
+},
+{
+    "question": "How does the sympathetic nervous system increase the heart rate in normal individuals?",
+    "choices": [
+        "Decreases the slope of phase 2",
+        "Decreases the slope of phase 4",
+        "Increases the hyperpolarization for phase 3",
+        "Increases the slope of phase 4",
+        "Increases the threshold for phase 0"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is increases the slope of phase 4 (D). The sympathetic nervous system increases the slope of phase 4 in pacemaker cells, leading to faster depolarization and a higher heart rate. Other options describe effects that either do not occur or would reduce heart rate."
+},
+{
+    "question": "A cylindrical blood vessel with laminar flow of blood is dilated such that its radius doubles from 1 cm to 2 cm. The pressure differential between the ends of the blood vessel, the length of the blood vessel, and the viscosity of the blood all remain unchanged. What is the effect on flow of blood?",
+    "choices": [
+        "Blood flow decreases by a factor of 2",
+        "Blood flow decreases by a factor of 16",
+        "Blood flow increases by a factor of 2",
+        "Blood flow increases by a factor of 4",
+        "Blood flow increases by a factor of 16"
+    ],
+    "correctAnswer": 4,
+    "explanation": "The correct answer is blood flow increases by a factor of 16 (E). According to the Hagen-Poiseuille relationship, flow is directly proportional to the radius of the blood vessel raised to the fourth power. This means that doubling the radius leads to an increase in blood flow by a factor of 16. Other options incorrectly describe the relationship between radius and blood flow, which is exponential rather than linear."
+},
+{
+    "question": "A cylindrical blood vessel with a given tension and wall thickness becomes aneurysmal such that its new radius is twice the original radius. Which of the following is true about the tension on the aneurysmal vessel?",
+    "choices": [
+        "Tension will decrease by a factor of 2",
+        "Tension will decrease by a factor of 4",
+        "Tension will increase by a factor of 2",
+        "Tension will increase by a factor of 4",
+        "Tension will remain the same"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is tension will increase by a factor of 2 (C). According to Laplace's law, tension is directly proportional to the radius of the vessel, assuming all other factors remain constant. If the radius doubles, so will the tension, increasing the likelihood of vessel rupture. Other options either underestimate or fail to account for this direct proportionality."
+},
+{
+    "question": "Which of the following action potential features is unique to fast-type cardiac action potentials?",
+    "choices": [
+        "Potassium ion–mediated repolarization of phase 3",
+        "Magnesium-driven resting potential",
+        "Pacemaker potential of phase 4",
+        "Plateau phase 2",
+        "Slow upstroke of depolarization"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is plateau phase 2 (D). The plateau phase is unique to fast-type action potentials, caused by a balance between calcium influx through L-type calcium channels and potassium efflux through voltage-gated potassium channels. Potassium-mediated repolarization (A) is not unique to fast-type action potentials. Magnesium (B) is not involved in action potential generation. The pacemaker potential (C) and slow upstroke (E) are features of slow-type potentials."
+},
+{
+    "question": "Which of the following describes the general state of sodium channels during the absolute refractory period?",
+    "choices": [
+        "Activated",
+        "Deactivated",
+        "Closed",
+        "Inactivated",
+        "Open"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The correct answer is inactivated (D). During the absolute refractory period, sodium channels are inactivated, preventing depolarization. Activated (A) and open (E) allow sodium ions to enter the cell. Closed (C) refers to the initial closing of the inactivation gate, while deactivated (B) is not a recognized term for sodium channel states."
+},
+{
+    "question": "Which of the following causes sodium channels to transition from closed to inactivated?",
+    "choices": [
+        "Acidosis",
+        "Alkalosis",
+        "Depolarization",
+        "Hyperpolarization",
+        "Sodium ion influx"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is depolarization (C). Depolarization triggers the inactivation of sodium channels after opening. Acidosis (A) and alkalosis (B) have no role in this process. Hyperpolarization (D) is not involved, and sodium ion influx (E) occurs during depolarization but does not cause the transition to inactivation."
+},
+{
+    "question": "Which of the following is caused by hyperkalemia?",
+    "choices": [
+        "Acid reflux",
+        "Insulin dependence",
+        "Relative depolarization",
+        "Relative hyperpolarization",
+        "Sodium channel closing"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The correct answer is relative depolarization (C). Hyperkalemia increases extracellular potassium levels, reducing the resting membrane potential and causing relative depolarization. It does not cause acid reflux (A) or insulin dependence (B). Hypokalemia, not hyperkalemia, can cause hyperpolarization (D). Sodium channel closing (E) occurs during depolarization but is not specific to hyperkalemia."
 }
 ]
