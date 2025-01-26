@@ -267,7 +267,7 @@
     "question": "How do changes in arteriolar radius and hematocrit levels influence blood flow according to Ohm’s and Poiseuille’s Laws?",
     "choices": [
         "Decreased arteriolar radius and increased hematocrit decrease blood flow due to increased resistance.",
-        "Increased arteriolar radius and decreased hematocrit increase blood flow due to decreased resistance.",
+        "Increased arteriolar radius and decreased hematocrit decrease blood flow due to decreased resistance.",
         "Increased arteriolar radius and increased hematocrit decrease blood flow due to increased pressure.",
         "Decreased arteriolar radius and decreased hematocrit increase blood flow due to decreased viscosity."
     ],
@@ -337,8 +337,8 @@
         "NFP = 13 mmHg",
         "NFP = 17 mmHg"
     ],
-    "correctAnswer": 1,
-    "explanation": "Using Starling's equation for net filtration pressure, NFP = (Pc - Pif) - (πc + πif) = 25 - (-3) - 20 + 5 = 7 mmHg, indicating a moderate amount of fluid is filtering out into the interstitium."
+    "correctAnswer": 2,
+    "explanation": "Using Starling's equation for net filtration pressure, NFP = (Pc - Pif) - (πc - πif) = (25 - (-3)) - (20 - 5) = 13 mmHg, indicating a moderate amount of fluid is filtering out into the interstitium."
 },
 {
     "question": "In the context of parallel and series vascular arrangements, explain the impact of increasing resistance in one vascular bed on the overall systemic circulation.",
@@ -491,8 +491,8 @@
         "Over the apex of the heart",
         "Left lower sternal border"
     ],
-    "correctAnswer": 1,
-    "explanation": "Aortic regurgitation murmurs are best heard at the left second intercostal space, which is close to the aortic valve from where the regurgitant flow occurs."
+    "correctAnswer": 0,
+    "explanation": "Aortic regurgitation murmurs are best heard at the right second intercostal space, which is close to the aortic valve from where the regurgitant flow occurs."
 },
 {
     "question": "A patient with pulmonary edema and a history of rheumatic fever is most likely to have which diastolic murmur?",
