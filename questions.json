@@ -466,11 +466,11 @@
     "choices": [
         "In a healthy young adult",
         "Following a myocardial infarction",
-        "In early stages of heart failure",
+        "In stages of systolic heart failure",
         "In severe mitral regurgitation"
     ],
     "correctAnswer": 1,
-    "explanation": "An S4 heart sound is associated with conditions that involve stiff ventricular walls, such as following a myocardial infarction. It occurs when the atria contract against a stiff or hypertrophic ventricle."
+    "explanation": "An S4 heart sound is associated with conditions that involve stiff ventricular walls, such as following a myocardial infarction. It occurs when the atria contract against a stiff or hypertrophic ventricle. So it would be heard in diastolic heart failure."
 },
 {
     "question": "Which mechanism best explains the occurrence of an S3 heart sound in a patient with heart failure?",
